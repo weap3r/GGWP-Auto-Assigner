@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "GGWP Auto-Assigner",
+  "version": "1.0",
+  "description": "Automates repeating moderator assignment tasks. Created by b.teo@playersupport.com",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
